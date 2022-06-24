@@ -22,7 +22,7 @@ For installation requirements to use this project you should have installed VS C
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+This app is meant to be used to show if you are able to qualify for loans.
 
 ---
 
